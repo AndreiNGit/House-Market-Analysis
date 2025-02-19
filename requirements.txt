@@ -4,4 +4,5 @@ scikit-learn
 matplotlib
 seaborn
 category_encoders
-joblib 
+joblib
+eurostatapiclient
